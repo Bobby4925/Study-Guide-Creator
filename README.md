@@ -1,3 +1,3 @@
-# Vite-With-React-and-Express
+# Study Guide Creator
 
-This is a template for a project using Vite with React JS and Express JS 
+Details Coming Soon...
